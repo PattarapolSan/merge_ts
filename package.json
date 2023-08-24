@@ -1,0 +1,28 @@
+{
+  "name": "merge_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PattarapolSan/merge_ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PattarapolSan/merge_ts/issues"
+  },
+  "homepage": "https://github.com/PattarapolSan/merge_ts#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.4"
+  },
+  "dependencies": {
+    "jest": "^29.6.4",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  }
+}
